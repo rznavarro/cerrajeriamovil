@@ -1,0 +1,6 @@
+{
+  "name": "Cerrajería Móvil 24 GDL",
+  "description": "Cerrajero a domicilio 24/7 en Guadalajara, Zapopan y toda la zona metropolitana. Abrimos casas y autos, llaves con chip y cambio de combinación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
